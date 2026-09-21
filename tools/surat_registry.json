@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-09-21T09:16:58.093982",
+  "updated_at": "2026-09-21T09:56:16.432874",
   "counters": {
     "2026": {
       "GREN": {
@@ -370,11 +370,15 @@
       "produk": "GREN",
       "divisi": "MKT",
       "jenis_surat": "IOM",
-      "perihal": "Kebijakan Skema Fee Penjualan Rukost 10% Khusus Cash Keras (Tim Sales Marketing)",
+      "perihal": "Kebijakan Skema Fee Penjualan Rukost 10% Khusus Cash Keras 21 Hari (Tim Sales Marketing)",
       "tujuan_penerima": "Seluruh Rekan Tim Sales & Marketing GREN Propertykost",
-      "pembuat": "Nugi Fathul Falah (SPV Markom & Digital)",
-      "status": "DITERBITKAN",
-      "lokasi_arsip": "01_GREN_PROPERTYKOST/03_Internal_Office_Memo_IOM/004_MKT_KAB_GREN_IX_2026_IOM_Skema_Fee_Rukost_Cash_Keras_10_Persen.docx"
+      "pembuat": "Direktur Utama PT. Kenzo Anatha Bumi (Bapak Yana Priatna)",
+      "status": "DITERBITKAN & DITANDATANGANI",
+      "lokasi_arsip": "01_GREN_PROPERTYKOST/03_Internal_Office_Memo_IOM/004_MKT_KAB_GREN_IX_2026_IOM_Skema_Fee_Rukost_Cash_Keras_10_Persen.docx (dan .pdf)",
+      "tembusan": [
+        "Bapak Arie (HRD & General Affairs)",
+        "Bapak Aziz Sulfahmi (Pimpinan Proyek GREN Propertykost Jatinangor)"
+      ]
     }
   ]
 }
