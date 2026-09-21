@@ -347,6 +347,34 @@
       "pembuat": "Tim Marketing Jatihandap Asri",
       "status": "TERARSIP",
       "lokasi_arsip": "02_HUNIAN_ASRI_JATIHANDAP/01_Surat_Keluar/011_OT_YPL_03_IX_2026_Undangan_Open_Table_Bu_Haunurida.pdf"
+    },
+    {
+      "no_registrasi": "REG-2026-0022",
+      "nomor_surat": "021/SAB-DIR/EXT/VIII/2026",
+      "tanggal": "2026-08-27",
+      "entitas": "SAB",
+      "produk": "CORP",
+      "divisi": "DIR",
+      "jenis_surat": "SURAT_KELUAR",
+      "perihal": "Surat Pemberitahuan Izin Tinggal & Delegasi Hunian Sementara Majesty Apartment",
+      "tujuan_penerima": "Badan Pengelola Majesty Apartment Bandung",
+      "pembuat": "Direktur Utama PT SAB (Bpk. Yana Priatna)",
+      "status": "TERARSIP",
+      "lokasi_arsip": "07_CORPORATE_YANPROLAND_HOLDING/02_Surat_Tugas_Dan_Kuasa/021_SAB_DIR_EXT_VIII_2026_Surat_Pemberitahuan_Izin_Tinggal_Majesty_732.docx"
+    },
+    {
+      "no_registrasi": "REG-2026-0023",
+      "nomor_surat": "[PKS-KAB-2026-07-20]",
+      "tanggal": "2026-07-20",
+      "entitas": "KAB",
+      "produk": "GREN",
+      "divisi": "MKT",
+      "jenis_surat": "SPK",
+      "perihal": "PKS Optimalisasi Lead Gen & Coaching Digital Marketing (Aswar Anas)",
+      "tujuan_penerima": "Aswar Anas",
+      "pembuat": "PT Kenzo Anatha Bumi (Yana Priatna)",
+      "status": "TERARSIP",
+      "lokasi_arsip": "01_GREN_PROPERTYKOST/06_SPK_Dan_Kontrak/PKS_PT_Kenzo_Anatha_Bumi_Aswar_Anas_Digital_Marketing_Meta_Ads.docx"
     }
   ]
 }
