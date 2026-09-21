@@ -5,7 +5,7 @@
     "2026": {
       "GREN": {
         "MKT": 4,
-        "SLS": 2,
+        "SLS": 0,
         "DIR": 0,
         "LEG": 0,
         "OPS": 0,
@@ -84,30 +84,30 @@
     },
     {
       "no_registrasi": "REG-2026-0003",
-      "nomor_surat": "001/SLS/KAB/GREN/VIII/2026",
+      "nomor_surat": "[NON-SURAT / FORM TRANSAKSI]",
       "tanggal": "2026-08-01",
       "entitas": "KAB",
       "produk": "GREN",
       "divisi": "SLS",
-      "jenis_surat": "SKUP",
+      "jenis_surat": "FORMULIR_TRANSAKSI",
       "perihal": "Surat Konfirmasi Unit Pesanan (SKUP) GREN",
       "tujuan_penerima": "Konsumen / Buyer Unit",
       "pembuat": "Divisi Sales GREN Propertykost",
-      "status": "TERARSIP",
+      "status": "FORMULIR_BAKU_SALES",
       "lokasi_arsip": "01_GREN_PROPERTYKOST/05_Administrasi_Konsumen/Surat_Konfirmasi_Unit_Pesanan_SKUP_GREN.pdf"
     },
     {
       "no_registrasi": "REG-2026-0004",
-      "nomor_surat": "002/SLS/KAB/GREN/VIII/2026",
+      "nomor_surat": "[NON-SURAT / FORM TRANSAKSI]",
       "tanggal": "2026-08-01",
       "entitas": "KAB",
       "produk": "GREN",
       "divisi": "SLS",
-      "jenis_surat": "PEMESANAN",
+      "jenis_surat": "FORMULIR_TRANSAKSI",
       "perihal": "Surat Pemesanan Unit Kost GREN",
       "tujuan_penerima": "Konsumen / Buyer Unit",
       "pembuat": "Divisi Sales GREN Propertykost",
-      "status": "TERARSIP",
+      "status": "FORMULIR_BAKU_SALES",
       "lokasi_arsip": "01_GREN_PROPERTYKOST/05_Administrasi_Konsumen/Surat_Pemesanan_GREN.pdf"
     },
     {
