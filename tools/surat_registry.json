@@ -4,7 +4,7 @@
   "counters": {
     "2026": {
       "GREN": {
-        "MKT": 5,
+        "MKT": 4,
         "SLS": 0,
         "DIR": 0,
         "LEG": 0,
@@ -123,20 +123,6 @@
       "pembuat": "Divisi Markom & Digital Skill",
       "status": "TERARSIP",
       "lokasi_arsip": "07_CORPORATE_YANPROLAND_HOLDING/03_Internal_Office_Memo_Holding/Proposal_Pengajuan_Aktivitas_Markom_dan_Sales_Yanproland_Agustus_2026.xlsx"
-    },
-    {
-      "no_registrasi": "REG-2026-0006",
-      "nomor_surat": "004/MKT/KAB/GREN/IX/2026",
-      "tanggal": "2026-09-21",
-      "entitas": "KAB",
-      "produk": "GREN",
-      "divisi": "MKT",
-      "jenis_surat": "SURAT",
-      "perihal": "Permohonan Kerjasama Tenant Kampus",
-      "tujuan_penerima": "Rektorat Unpad",
-      "pembuat": "Divisi MKT",
-      "status": "DITERBITKAN",
-      "lokasi_arsip": "01_GREN_PROPERTYKOST\\01_Surat_Keluar/004_MKT_KAB_GREN_IX_2026_Permohonan_Kerjasama_Tenant_Kampus.docx"
     },
     {
       "no_registrasi": "REG-2026-0007",
@@ -377,8 +363,8 @@
       "lokasi_arsip": "01_GREN_PROPERTYKOST/06_SPK_Dan_Kontrak/PKS_PT_Kenzo_Anatha_Bumi_Aswar_Anas_Digital_Marketing_Meta_Ads.docx"
     },
     {
-      "no_registrasi": "REG-2026-0024",
-      "nomor_surat": "005/MKT/KAB/GREN/IX/2026",
+      "no_registrasi": "REG-2026-0023",
+      "nomor_surat": "004/MKT/KAB/GREN/IX/2026",
       "tanggal": "2026-09-21",
       "entitas": "KAB",
       "produk": "GREN",
@@ -388,7 +374,7 @@
       "tujuan_penerima": "Divisi Sales & Marketing GREN Propertykost",
       "pembuat": "Divisi Marketing Communication",
       "status": "DITERBITKAN",
-      "lokasi_arsip": "01_GREN_PROPERTYKOST/03_Internal_Office_Memo_IOM/005_MKT_KAB_GREN_IX_2026_IOM_Program_Penjualan_Sales.docx"
+      "lokasi_arsip": "01_GREN_PROPERTYKOST/03_Internal_Office_Memo_IOM/004_MKT_KAB_GREN_IX_2026_IOM_Program_Penjualan_Sales.docx"
     }
   ]
 }
