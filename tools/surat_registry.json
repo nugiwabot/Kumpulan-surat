@@ -70,17 +70,17 @@
     },
     {
       "no_registrasi": "REG-2026-0002",
-      "nomor_surat": "001/MKT/KAB/GREN/VII/2026",
-      "tanggal": "2026-07-14",
+      "nomor_surat": "001/PP/GREN-PKJ/2026",
+      "tanggal": "2026-07-20",
       "entitas": "KAB",
       "produk": "GREN",
       "divisi": "MKT",
       "jenis_surat": "SURAT_KELUAR",
-      "perihal": "Permohonan Izin Open Table",
+      "perihal": "Permohonan Izin Pelaksanaan Booth Informasi (Open Table) Golf Jatinangor",
       "tujuan_penerima": "Manajemen Jatinangor National Golf & Resort",
       "pembuat": "Divisi Marketing GREN Propertykost",
       "status": "TERARSIP",
-      "lokasi_arsip": "01_GREN_PROPERTYKOST/01_Surat_Keluar/001_MKT_KAB_GREN_VII_2026_Permohonan_Open_Table_Jatinangor_Golf.docx"
+      "lokasi_arsip": "01_GREN_PROPERTYKOST/01_Surat_Keluar/001_PP_GREN_PKJ_2026_Permohonan_Open_Table_Golf_Jatinangor.docx"
     },
     {
       "no_registrasi": "REG-2026-0003",
@@ -165,6 +165,20 @@
       "pembuat": "Divisi Marketing Communication / Management",
       "status": "TERARSIP",
       "lokasi_arsip": "07_CORPORATE_YANPROLAND_HOLDING/03_Internal_Office_Memo_Holding/004_MKT_YPL_VI_2026_IOM_Skema_Komisi_Sales_Juni_Juli_2026.pdf"
+    },
+    {
+      "no_registrasi": "REG-2026-0009",
+      "nomor_surat": "002/PP/GREN-PKJ/2026",
+      "tanggal": "2026-09-15",
+      "entitas": "KAB",
+      "produk": "GREN",
+      "divisi": "MKT",
+      "jenis_surat": "SURAT_KELUAR",
+      "perihal": "Permohonan Izin Open Table & Distribusi Brosur SESKO TNI",
+      "tujuan_penerima": "KAPRIM SESKO TNI Bandung",
+      "pembuat": "Tim Marketing GREN Propertykost",
+      "status": "TERARSIP",
+      "lokasi_arsip": "01_GREN_PROPERTYKOST/01_Surat_Keluar/002_PP_GREN_PKJ_2026_Permohonan_Open_Table_SESKO_TNI_Bandung.pdf"
     }
   ]
 }
